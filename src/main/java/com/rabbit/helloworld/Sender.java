@@ -1,4 +1,4 @@
-package com.rabbit;
+package com.rabbit.helloworld;
 
 
 import com.rabbitmq.client.Channel;
